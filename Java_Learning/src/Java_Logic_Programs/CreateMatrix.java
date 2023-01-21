@@ -14,7 +14,7 @@ public class CreateMatrix {
 
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Please enter the number of rows: and press Enter");
+		//System.out.println("Please enter the number of rows: and press Enter");
 		int iRows = sc.nextInt();
 		
 		System.out.println("Please enter the number of columns: and press Enter");

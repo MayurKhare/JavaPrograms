@@ -13,17 +13,7 @@ public class Test1 {
 	public static void main(String[] args) throws Exception {
 		
 	
-		for (int i=0; i<10; i++)
-		{
-			if(i==2)
-			{
-				System.out.println("Ending The Loop");
-				continue;
-			}
-			
-			System.out.println(i);
-			
-		}
-	}
-	
+		
+		
+}
 }

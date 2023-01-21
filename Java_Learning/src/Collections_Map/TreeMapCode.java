@@ -10,10 +10,12 @@ public class TreeMapCode {
 		TreeMap<String, Integer> li = new TreeMap<String, Integer>();
 		
 		li.put("Khare", 1);
+		li.put(null, null);
+		//li.put(null, null);
 		li.put("Mayur", null);
 		li.put("Mayank", null);
-		li.put(null, 5);
-		li.put(null, 6);
+		//li.put(null, 5);
+		//li.put(null, 6);
 		
 		System.out.println(li);
 

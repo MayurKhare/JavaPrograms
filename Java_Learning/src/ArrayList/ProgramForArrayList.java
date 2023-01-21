@@ -32,7 +32,7 @@ public class ProgramForArrayList {
 		
 		
 		//Array
-		Integer k[] = new Integer[4]; // but in array we can have both primitve as well as object type data(wrqpper)
+		Integer k[] = new Integer[4]; // but in array we can have both primitve as well as object type data(wrapper)
 		int j[] = new int[4];// this is also accepted in array
 		
 		try
